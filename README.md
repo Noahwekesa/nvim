@@ -1,4 +1,4 @@
-# 💤 LazyVim
+            Wekesa nvim config
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+for installation instructions go to my kickstart instructions 
+https://github.com/Noahwekesa/kickstart.nvim
