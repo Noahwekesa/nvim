@@ -12,6 +12,14 @@ return {
         "tailwindcss-language-server",
         "typescript-language-server",
         "css-lsp",
+        "djlint",
+        "prisma-language-server",
+        "pyright",
+        "black",
+        "eslint-lsp ",
+        "htmx-lsp",
+        "pydocstyle",
+
       })
     end,
   },
