@@ -16,7 +16,7 @@ return {
         "prisma-language-server",
         "pyright",
         "black",
-        "eslint-lsp ",
+        "eslint-lsp",
         "htmx-lsp",
         "pydocstyle",
 
