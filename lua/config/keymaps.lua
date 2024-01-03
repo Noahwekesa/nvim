@@ -54,3 +54,6 @@ end, opts)
 keymap.set("n", "<leader>r", function()
   require("craftzdog.utils").replaceHexWithHSL()
 end)
+
+-- undo tree
+keymap.set("n", "<leader>U", vim.cmd.UndotreeToggle)

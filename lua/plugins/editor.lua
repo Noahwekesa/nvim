@@ -12,6 +12,9 @@ return {
       },
     },
   },
+  {
+    "mbbill/undotree",
+  },
 
   {
     "echasnovski/mini.hipatterns",
