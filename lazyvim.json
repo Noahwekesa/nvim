@@ -1,10 +1,12 @@
 {
   "extras": [
-
+    "lazyvim.plugins.extras.lang.docker",
+    "lazyvim.plugins.extras.lang.python",
+    "lazyvim.plugins.extras.lang.yaml"
   ],
   "news": {
-    "NEWS.md": "2123",
-    "doc/news.txt": "19364"
+    "NEWS.md": "3314",
+    "doc/news.txt": "24702"
   },
-  "version": 2
+  "version": 3
 }
